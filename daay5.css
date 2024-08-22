@@ -1,0 +1,96 @@
+.bbb{
+    background: url(https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/salaar-1-1702904099.jpg);
+}
+header{
+    
+     background-color: palevioletred;
+     height: 100px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    right: 0%;
+}
+nav{
+    font-size: 20px;
+    color: white;
+    padding-top: 1px;
+    padding-right: 20px;
+    top: 0;
+}
+#h1{
+    color: aliceblue;
+    font-size: x-large;
+    padding: 15px;
+}
+#d{
+    padding-right: 365px;
+    
+}
+#d3{
+    background:linear-gradient(to right, pink,orange,rgb(217, 236, 76));
+    height: 120px;
+    box-shadow: 5px 8px 9px red;
+    border-radius: 8px;
+    position: fixed;
+    left: 1%;
+    right: 1%;
+}
+.p1{
+    padding-top: 10px;
+    padding-left: 9px;
+    text-align: left;  
+}
+.p2{
+    padding-top: 0px;
+    text-align: center;
+}
+.p3{
+    padding-top: 0%;
+    text-align: right;
+}
+#d4{
+
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+
+} 
+    
+#d5{ 
+    margin-left: 10px;  
+    margin-right: 10px;
+    height: 200px;
+    border: 2px solid black;
+
+    border padding: left 50px;;
+    
+
+}
+#p1{
+    padding-left: 15px;
+    padding-right: 5px;
+}
+.i2{
+ padding-left: 10px;
+ padding-right: 10px;  
+}
+.bee{
+    background-color: green;
+
+}
+footer{
+    background-color: green;
+    width: 100%;
+    position: absolute; 
+    right: 0%;
+    left: 0%;
+    font-style: italic;
+    font-size: 80px;
+    color: white;
+    border: 2px solid black;
+    padding-left: ;
+    padding-right: 5px;
+}
